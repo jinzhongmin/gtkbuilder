@@ -1,6 +1,6 @@
 # gtkbuilder
 
-更方便的使用 go-gtk [https://github.com/mattn/go-gtk]的 builder
+更方便的使用 go-gtk [ https://github.com/mattn/go-gtk ] 的builder
 
 ## 存在的问题
 
